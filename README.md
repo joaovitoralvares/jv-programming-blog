@@ -1,6 +1,6 @@
 # This is my own programming blog.
 I'm currently building it.
-##Technologies
+## Technologies
 - Laravel Sail
 - Laravel Jetstream
 - InertiaJs
